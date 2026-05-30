@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 👋 Hi, I'm 
-💊 Pharmacy Student |  🚀 Lifelong Learner
+University Student |  🚀 Lifelong Learner
 
-I'm a Pharmacy student with a strong passion for website development and technology. While I spend my days learning about medicines, human physiology, and healthcare, I also enjoy building software, automating tasks, and exploring new technologies.
+I'm a student with a strong passion for website development and technology. While I spend my days learning about medicines, human physiology, and healthcare, I also enjoy building software, automating tasks, and exploring new technologies.
 
 🔭 What I'm Interested In
 
