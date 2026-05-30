@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**25074274-star/25074274-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm 
+💊 Pharmacy Student |  🚀 Lifelong Learner
 
-Here are some ideas to get you started:
+I'm a Pharmacy student with a strong passion for website development and technology. While I spend my days learning about medicines, human physiology, and healthcare, I also enjoy building software, automating tasks, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm Interested In
+
+- Software Development
+- Artificial Intelligence
+- Healthcare Technology
+- Pharmacology
+- Biomedical Sciences
+- Data Analysis & Automation
+
+🛠️ Tech Stack
+
+- Python (Basic)
+- JavaScript (Basic)
+- HTML & CSS
+- Git & GitHub
+
+🎯 Goals
+
+- Build technology that improves healthcare
+- Bridge the gap between medicine and software
+- Contribute to open-source projects
+- Never stop learning
+
+⚡ Fun Fact
+
+Most people know me as a pharmacy student, but you'll often find me debugging code, building site projects, or learning a new programming framework.
